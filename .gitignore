@@ -1,0 +1,22 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# intellij idea
+.idea
+build
+.gradle
+*.iml
+*/*.iml
+*/bin
+*/build
+
+*.class
+*/*.class
+
+# eclipse
+.settings
+*/.settings
+.project
+*.apk
